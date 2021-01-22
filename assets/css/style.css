@@ -365,7 +365,7 @@ html, body {
 }
 
 .portfolio-item {
-    height: 280px;
+    height: 320px;
     margin-bottom: 30px;
     position: relative;
 }
@@ -452,7 +452,7 @@ html, body {
 .modal-header {
     position: relative;
     padding: 0;
-    height: 500px;
+    height: 600px;
 }
 
 .modal-header .close {
